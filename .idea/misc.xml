@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/hql2Project/pom.xml" />
+        <option value="$PROJECT_DIR$/ExamHibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernateCrud/pom.xml" />
+        <option value="$PROJECT_DIR$/HibernateOneToOne/pom.xml" />
+        <option value="$PROJECT_DIR$/HibernateOneToMany/pom.xml" />
+        <option value="$PROJECT_DIR$/HibernateManyToMany/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernateAnnotations/pom.xml" />
+        <option value="$PROJECT_DIR$/HibernateGenerationStrategy/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

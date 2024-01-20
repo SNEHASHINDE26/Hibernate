@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExamHibernate/ExamHibernate.iml" filepath="$PROJECT_DIR$/ExamHibernate/ExamHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HibernateGenerationStrategy/HibernateGenerationStrategy.iml" filepath="$PROJECT_DIR$/HibernateGenerationStrategy/HibernateGenerationStrategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HibernateManyToMany/HibernateManyToMany.iml" filepath="$PROJECT_DIR$/HibernateManyToMany/HibernateManyToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HibernateOneToMany/HibernateOneToMany.iml" filepath="$PROJECT_DIR$/HibernateOneToMany/HibernateOneToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HibernateOneToOne/HibernateOneToOne.iml" filepath="$PROJECT_DIR$/HibernateOneToOne/HibernateOneToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/J2EE-HP.iml" filepath="$PROJECT_DIR$/.idea/J2EE-HP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernateAnnotations/hibernateAnnotations.iml" filepath="$PROJECT_DIR$/hibernateAnnotations/hibernateAnnotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernateCrud/hibernateCrud.iml" filepath="$PROJECT_DIR$/hibernateCrud/hibernateCrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hql2Project/hqlProject.iml" filepath="$PROJECT_DIR$/hql2Project/hqlProject.iml" />
+    </modules>
+  </component>
+</project>

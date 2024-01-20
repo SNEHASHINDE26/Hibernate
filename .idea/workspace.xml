@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc06d8f2-1d4f-465f-b81a-b2b67521917c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/J2EE-HP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_19_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/src/main/java/Demo/AcceptAuthorIdAndDisplayBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/src/main/java/Demo/InsertAuthorForBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/src/main/java/Demo/InsertBookForAuthors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/src/main/java/Domain/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/src/main/java/Domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamHibernate/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/src/main/java/Demo/MainApp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/src/main/java/Demo/MainApp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/src/main/java/Demo/MainApp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/src/main/java/Domain/BookData1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/src/main/java/Domain/BookData2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/src/main/java/Domain/BookData3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/target/classes/Demo/MainApp1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/target/classes/Demo/MainApp2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/target/classes/Demo/MainApp3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/target/classes/Domain/BookData1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/target/classes/Domain/BookData2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/target/classes/Domain/BookData3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateGenerationStrategy/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/AcceptCourseIdAndDisplayEnrolledStudent7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/AcceptStudentIdAndDeleteStudentDetails10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/AcceptStudentIdAndDisplayEnrolledCourses6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/AddCourseForStudent2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/AddNewStudentInOldCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/AddStudentForCourses1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/DisplayAllCoursesAlongWithCountOfEnrollesStudent9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/DisplayAllStudentsWithTheirEnrolledCourses8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/ExistingCoursesAndNewStudent3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/ExistingStudentAndNewCourse4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/ExistingStudentExistingCourse5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/NewCourseInOldName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/OneCourseTwoStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Demo/TwoCourseOneStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Domain/Course1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/java/Domain/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/AcceptCourseIdAndDisplayEnrolledStudent7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/AcceptStudentIdAndDeleteStudentDetails10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/AcceptStudentIdAndDisplayEnrolledCourses6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/AddCourseForStudent2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/AddNewStudentInOldCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/AddStudentForCourses1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/DisplayAllCoursesAlongWithCountOfEnrollesStudent9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/DisplayAllStudentsWithTheirEnrolledCourses8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/ExistingCoursesAndNewStudent3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/ExistingStudentAndNewCourse4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/ExistingStudentExistingCourse5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/NewCourseInOldName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/OneCourseTwoStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Demo/TwoCourseOneStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Domain/Course1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/Domain/Student1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateManyToMany/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/src/main/java/Demo/DeleteOnlyOrders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/src/main/java/Demo/DeleteOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/src/main/java/Demo/DisplayAllOrders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/src/main/java/Demo/DisplayOrderById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/src/main/java/Demo/ForRepeatOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/src/main/java/Demo/SaveCustomerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/src/main/java/Demo/SaveCustomerDetails1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/src/main/java/Domain/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/src/main/java/Domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/target/classes/Demo/DeleteOnlyOrders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/target/classes/Demo/DeleteOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/target/classes/Demo/DisplayAllOrders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/target/classes/Demo/DisplayOrderById.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/target/classes/Demo/ForRepeatOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/target/classes/Demo/SaveCustomerDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/target/classes/Demo/SaveCustomerDetails1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/target/classes/Domain/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/target/classes/Domain/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToMany/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/java/demo/DeleteCitizenDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/java/demo/DeleteRecordFromED.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/java/demo/DisplayAllCitizenDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/java/demo/DisplayCitizenDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/java/demo/DisplayEducationalDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/java/demo/DisplayNameDegree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/java/demo/Hibernate1To1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/java/demo/InsertEducationalDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/java/domain/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/java/domain/Education.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/java/domain/Passport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/java/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/demo/DeleteCitizenDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/demo/DeleteRecordFromED.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/demo/DisplayAllCitizenDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/demo/DisplayCitizenDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/demo/DisplayEducationalDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/demo/DisplayNameDegree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/demo/Hibernate1To1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/demo/InsertEducationalDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/domain/Citizen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/domain/Education.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/domain/Passport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/domain/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateOneToOne/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/src/main/java/demo/DisplayProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/src/main/java/demo/InsertProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/src/main/java/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/target/classes/demo/DisplayProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/target/classes/demo/InsertProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/target/classes/domain/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateAnnotations/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/src/main/java/demo/DeleteProductDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/src/main/java/demo/DisplayProductDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/src/main/java/demo/SaveProductDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/src/main/java/demo/UpdateProductDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/src/main/java/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/src/main/resources/product.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/target/classes/demo/DeleteProductDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/target/classes/demo/DisplayProductDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/target/classes/demo/SaveProductDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/target/classes/demo/UpdateProductDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/target/classes/domain/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernateCrud/target/classes/product.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/HQLProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_19_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/hqlProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/main/java/demo/DeleteAllProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/main/java/demo/DisplayAllProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/main/java/demo/DisplayLessPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/main/java/demo/DisplayNameAllProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/main/java/demo/DisplayProductFromCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/main/java/demo/UpdateAllPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/main/java/demo/UpdatePriceFromCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/main/java/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/target/classes/demo/DeleteAllProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/target/classes/demo/DisplayAllProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/target/classes/demo/DisplayLessPrice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/target/classes/demo/DisplayNameAllProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/target/classes/demo/DisplayProductFromCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/target/classes/demo/HCQLDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/target/classes/demo/HCQLDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/target/classes/demo/UpdateAllPrice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/target/classes/demo/UpdatePriceFromCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/target/classes/domain/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hql2Project/target/classes/hibernate.cfg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2bEJ7C3kQxbOPblsLBo2qbX7LDz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc06d8f2-1d4f-465f-b81a-b2b67521917c" name="Changes" comment="" />
+      <created>1705774136980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705774136980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
