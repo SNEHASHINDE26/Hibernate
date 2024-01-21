@@ -3,6 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/ExamHibernate/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ExamHibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateAnnotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateAnnotations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateCrud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateCrud/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HibernateGenerationStrategy/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HibernateGenerationStrategy/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HibernateManyToMany/src/main/java" charset="UTF-8" />
@@ -11,11 +15,7 @@
     <file url="file://$PROJECT_DIR$/HibernateOneToMany/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HibernateOneToOne/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HibernateOneToOne/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hibernateAnnotations/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hibernateAnnotations/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hibernateCrud/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hibernateCrud/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hql2Project/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hql2Project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HqlProject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HqlProject/src/main/resources" charset="UTF-8" />
   </component>
 </project>

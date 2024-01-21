@@ -3,13 +3,13 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/hql2Project/pom.xml" />
+        <option value="$PROJECT_DIR$/HqlProject/pom.xml" />
         <option value="$PROJECT_DIR$/ExamHibernate/pom.xml" />
-        <option value="$PROJECT_DIR$/hibernateCrud/pom.xml" />
+        <option value="$PROJECT_DIR$/HibernateCrud/pom.xml" />
         <option value="$PROJECT_DIR$/HibernateOneToOne/pom.xml" />
         <option value="$PROJECT_DIR$/HibernateOneToMany/pom.xml" />
         <option value="$PROJECT_DIR$/HibernateManyToMany/pom.xml" />
-        <option value="$PROJECT_DIR$/hibernateAnnotations/pom.xml" />
+        <option value="$PROJECT_DIR$/HibernateAnnotations/pom.xml" />
         <option value="$PROJECT_DIR$/HibernateGenerationStrategy/pom.xml" />
       </list>
     </option>
